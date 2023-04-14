@@ -1,4 +1,4 @@
-# vue-sample
+# my-app2
 
 ## Project setup
 ```
@@ -15,14 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-### Install project
-vue create my-app
